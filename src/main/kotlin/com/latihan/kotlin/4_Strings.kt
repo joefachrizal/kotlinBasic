@@ -2,7 +2,7 @@ package com.latihan.kotlin
 
 fun main() {
     indexing()
-    Unicode()
+    unicode()
     RawString()
     forloop()
 }
@@ -22,7 +22,7 @@ fun forloop() {
     }
 }
 
-fun Unicode() {
+fun unicode() {
     val name = "Unicode test: \u0394"
     println(name)
 }
