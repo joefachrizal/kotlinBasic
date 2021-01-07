@@ -1,4 +1,6 @@
 # Kotlin Basic
+Sample code dasar kotlin dengan Intellej.
+
 - [Hello_Kotlin](https://github.com/joefachrizal/kotlinBasic/blob/master/src/1_HelloKotlin.kt)
 - [Data Types](https://github.com/joefachrizal/kotlinBasic/blob/master/src/2_DataTypes.kt)
 - [Input Data](https://github.com/joefachrizal/kotlinBasic/blob/master/src/3_InputData.kt)
